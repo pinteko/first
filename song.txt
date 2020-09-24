@@ -4,8 +4,15 @@ standing strong
 on this their chosen battle field
 
 from the lines
+<<<<<<< HEAD
 shield by shield
 side by side
 we're marching into destiny
 -----------------------------------
+<<<<<<< HEAD
 ----------------------------------
+=======
+=======
+shield by shield
+>>>>>>> 13452af67d5a9b4a1eb93c8b69f56a8922fb7807
+>>>>>>> parent of b402108... after
